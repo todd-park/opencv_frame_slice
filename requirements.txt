@@ -1,0 +1,2 @@
+certifi @ file:///Users/cbousseau/work/recipes/ci_py311/certifi_1677903144932/work/certifi
+numpy @ file:///Users/cbousseau/work/recipes/ci_py311/numpy_and_numpy_base_1677921358445/work
