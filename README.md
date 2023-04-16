@@ -16,7 +16,7 @@
 ```bash
 $  python data_labeling.py input output
 ```
-    python data_labeling.py --input_dir /Users/taehyunpark/onedrive_personal/OneDrive/university/4rd_1st\(2023spring\)/4.intelligence_system/lecture_materials/pig_trim_image/ --output_dir output
+python data_labeling.py input output
 # Packages
  - anaconda3-2023.03
  - python 3.11.2
